@@ -4,7 +4,7 @@
 -  Technologies 
 -  Languages •python
              • c++
-             • Java
+             • c
 
 
 
